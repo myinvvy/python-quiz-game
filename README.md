@@ -1,2 +1,4 @@
 # python-quiz-game
-A quick quiz made using basic python knowledge
+
+A simple quiz that runs in the terminal.
+The project's purpose is to practice Python basics.
